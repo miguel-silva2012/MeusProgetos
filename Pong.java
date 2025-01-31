@@ -1,7 +1,5 @@
 package Pong.src;
 
-// alteração feita
-
 public class Pong {
     // map size
     static final int SIZE[] = {20, 35}; // this is the size of the map
