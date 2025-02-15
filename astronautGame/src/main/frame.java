@@ -1,11 +1,11 @@
-package src.main;
+package main;
 
 import javax.swing.*;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-import src.resources.render_images;
+import resources.render_images;
 
 public class frame extends JFrame
 {
