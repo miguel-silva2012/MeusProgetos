@@ -1,4 +1,4 @@
-package src.resources;
+package resources;
 import java.io.File;
 
 public class render_font {
