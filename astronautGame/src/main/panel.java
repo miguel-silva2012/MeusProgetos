@@ -1,7 +1,7 @@
-package src.main;
+package main;
 import javax.swing.*;
 
-import src.resources.render_images;
+import resources.render_images;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
